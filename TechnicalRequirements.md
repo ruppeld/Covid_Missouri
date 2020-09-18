@@ -9,6 +9,13 @@ The technical requirements for Project 1 are as follows.
 * [ ] Create a Jupyter Notebook illustrating the **final data analysis**
 
 * [ ] Use Matplotlib to create a total of 6-8 visualizations of your data (ideally, at least 2 per "question" you ask of your data)
+  * For each split, compare to Cases per capita, Deaths per capita, and mortality rate
+    *Median Income
+    *Education Level (Bachelor's or Higher)
+    *Population Density
+    *Diversity
+    *Population over 65
+    *Gender split
 
 * [ ] Save PNG images of your visualizations to distribute to the class and instructional team, and for inclusion in your presentation
 
