@@ -1,0 +1,10 @@
+Median Household Income = 0.0018
+% Population Over 65 = 0.131
+% Households below poverty line = 0.0175
+% of individuals w/o health insurance = 0.00654
+population density = 0.0812
+
+
+
+
+
