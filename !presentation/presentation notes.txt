@@ -1,0 +1,23 @@
+GENERAL HYPOTHESIS:	There would be some obvious correlation between cases and deaths per capita/mortality rate, and each variable examined in our presentation.
+
+	MEDIAN HOUSEHOLD INCOME
+		OUTCOME:	Median household income has little to no effect on cases.
+		ANALYSIS:	
+
+	POPULATION BELOW POVERTY LINE
+		OUTCOME:	Poverty line has no effect.
+		ANALYSIS:	XYZ
+
+	POPULATION OVER AGE 65
+		OUTCOME:	Less populated areas experienced lower impacts.
+		ANALYSIS:	Already established isolated lifestyles likely contributed to lower per capita rates.
+
+	POPULATION DENSITY
+		OUTCOME:	Definitely more prevalent in populated counties
+		ANALYSIS:	Obvious.
+
+	UNINSURED POPULATION
+		OUTCOME:	Far lower rates than expected.
+		ANALYSIS:	Uninsured populations are less likely to be tested and therefore diagnosed.  May also be exhibiting especially careful behaviors, given threat.
+
+

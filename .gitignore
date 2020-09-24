@@ -6,6 +6,12 @@ __pycache__/
 .DS_Store
 api_key.py
 thumbs.db
+*.xlsx
+us-counties.csv
+us-states.csv
+us.csv
+all-geocodes-v2018.xlsx
+state-geocodes-v2018.xlsx
 
 # C extensions
 *.so

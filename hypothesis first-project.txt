@@ -1,0 +1,24 @@
+﻿Initially had an overflow of data
+
+
+* We initially looked at any source for Covid-19 data.  We discovered the NYTimes, a SLU professor, Chris Prener, MO data. Additionally we looked at health.mo.gov and meric.mo.go/data for county size, insurance, 
+* The NYTimes data was used by the SLU professor, Chris Prener.
+* The SLU data also included data from the Missouri Covid Tracking Project
+* The data we did use had an incredible amount of columns, hospital bed capacity, beds in use, icu beds, number of hospitals reporting and number of those that aren’t, total tests, area of county, race percentages, percentage that carpool vs those that do not, percentage with various degrees.
+
+
+Core Hypothesis
+* Our hypothesis was that income, age, race, and uninsured individuals affected Covid-19 positive test results.
+* The null hypothesis was that income, age, race, and uninsured individuals did not affect Covid-19 positive test results.
+
+
+
+
+
+
+interesting
+* Binning county size
+* Compared to national average
+* Compared to regional average
+* Comparing counties that had mask rules vs those that did not
+* After non-mask events; was there a spike in positive cases
