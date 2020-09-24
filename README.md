@@ -1,9 +1,7 @@
 # First_Project
 
-https://github.com/slu-openGIS/MO_HEALTH_Covid_Tracking
-
-https://meric.mo.gov/data
-
-https://github.com/nytimes/covid-19-data
-
-https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/
+Data Cleaning Link:
+  https://github.com/drupps/First_Project/blob/master/Data_Cleaning/County_Spatial_Cases_Deaths.ipynb
+  
+Data Analysis Link:
+  
